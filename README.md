@@ -2,12 +2,7 @@
 This repository contains Python implementations for machine-learning problems:
 1. **House Price Prediction**: Predicts house prices based on size using linear regression.
 2. Why Linear Regression?
-Linear regression is a supervised learning algorithm that models the relationship between a dependent variable (
-y
-y) and one or more independent variables (
-x
-x). It’s ideal for problems where the relationship is linear.
-
+Linear regression is a supervised learning algorithm that models the relationship between a dependent variable (y) and one or more independent variables (x). It’s ideal for problems where the relationship is linear.
 Steps to Solve the Problem
 Define the Model:
 y=mx+b
